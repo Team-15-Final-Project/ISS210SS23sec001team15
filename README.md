@@ -14,3 +14,4 @@ BBFD2440-20A1-4F98-AD72-9DDBAE86302A.webp: https://www.nytimes.com/2020/06/19/us
 abortion for young women.jpeg: https://abcnews.go.com/Health/roe-threat-doctors-worry-girls-18-abortion-care/story?id=84778976
 AJPH.pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4815713/
 holdingtest.jpeg:https://drexel.edu/medicine/academics/womens-health-and-leadership/womens-health-education-program/whep-blog/unwanted-pregnancies-outcomes-for-children/
+abortion .jpeg: https://www.yesmagazine.org/social-justice/2022/10/13/access-abortion-activism
