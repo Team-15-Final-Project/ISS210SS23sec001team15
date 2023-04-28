@@ -9,3 +9,4 @@ Minors pdf.pdf: https://watermark.silverchair.com/peds_2012-2470.pdf?token=AQECA
 16C4899D-62CE-4D79-80B7-92B771F42023.jpeg: https://www.amnesty.org/en/latest/news/2019/06/abortion-laws-in-the-us-10-things-you-need-to-know/
 Military .pdf: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1363/psrh.12044?download=true
 Aaron pic .gif: https://www.fhi360.org/sites/default/files/webpages/Modules/ADOL/s1pg25.htm
+abortion saved me.webp: https://www.dispatch.com/story/opinion/columns/guest/2022/06/02/opinion-could-abortion-ban-threaten-treatment-ectopic-pregnancy/9885823002/
