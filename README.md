@@ -3,7 +3,7 @@ This is a template for the ISS210's final webstie on social justice (not require
 You should use this file to drop citations for all the images, articles, etc. that you use. 
 Be sure to replace the following with your substitions.
 E5A2E695-36C7-4373-B5D2-15B6806321FF.jpeg: https://www.politico.com/news/magazine/2022/05/27/abortion-feminism-essay-white-black-00032987
-SJImage1: https://www.pinterest.ca/pin/408772103654309571/
+767ABDB4-2ED0-4BD5-8A22-02414D49C567.webp: https://www.youtube.com/watch?v=d-Q2X6FY0-E
 SJImage2: Youtube
 SJImage3: https://bloody-disgusting.com/editorials/3601617/evolution-undead-brief-history-zombies-horror/
 SJImage4: https://stock.adobe.com/search?k=economic+justice 
