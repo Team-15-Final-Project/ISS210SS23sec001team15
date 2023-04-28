@@ -12,3 +12,4 @@ Aaron pic .gif: https://www.fhi360.org/sites/default/files/webpages/Modules/ADOL
 abortion saved me.webp: https://www.dispatch.com/story/opinion/columns/guest/2022/06/02/opinion-could-abortion-ban-threaten-treatment-ectopic-pregnancy/9885823002/
 BBFD2440-20A1-4F98-AD72-9DDBAE86302A.webp: https://www.nytimes.com/2020/06/19/us/vanessa-guillen-fort-hood-disappearance.html
 abortion for young women.jpeg: https://abcnews.go.com/Health/roe-threat-doctors-worry-girls-18-abortion-care/story?id=84778976
+AJPH.pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4815713/
